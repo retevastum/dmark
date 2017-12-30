@@ -24,10 +24,10 @@ The digital Mark (`dMark`, `dM`, `DIM`) has the superordinate objective to estab
 To achieve this there are three major design objectives:
 
 1. Tangibility, transparency and usability: The `dMark` will be designed for usability by end users (laymen) - beginning from the start and permanently.
-2. Energy efficiency: The `dMark` will stimulate energy efficiency by the means of technical and organizational measures. It is legitimate to see the `dMark` as a "green cryptocurrency" in this context.
+2. Energy sustainability: The `dMark` will stimulate energy sustainability by the means of technical and organizational measures. It is legitimate to see the `dMark` as a "green cryptocurrency" in this context.
 3. Capacity: The `dMark` will remove capacity barriers in the long run.
 
-Energy efficiency will be fostered by rewarding the usage of renewable energy. In detail:
+Energy sustainability will be fostered by rewarding the usage of renewable energy. In detail:
 
 * a) Central user registry: Users - including [miners (Wikipedia)](https://en.wikipedia.org/wiki/Bitcoin#Mining) - are invited to register (with their public key) with a central organisation (digitalEnergyRegister - `dEnReg`). They can proove their source of energy in a reliable way. Based on this proof they will be tagged with an energy class.
 * b) The underlying algorithms ([blockchain (Wikipedia)](https://en.wikipedia.org/wiki/blockchain) management, rewarding/money creation, transactions) will be modified in such a way, that using renewable energy will yield advantages - depending on the energy class of the user. Obviously `dEnReg` will have to be published in a cryptographically secure way.
@@ -48,7 +48,7 @@ Energy efficiency will be fostered by rewarding the usage of renewable energy. I
 ## Conclusion
 
 * The digital Mark (`dMark`, `dM`, `DIM`) has the superordinate objective to establish a mass-market cryptocurrency.
-* To achieve this there are three major design objectives: usability for laymen, energy efficiency, removal of capacity limits.
+* To achieve this there are three major design objectives: usability for laymen, energy sustainability, removal of capacity limits.
 * A central register - digitalEnergyRegister / `dEnReg` - will be introduced which will tag users with energy classes. There may be the possibility to open this up for other applications in the long run.
 * Users will be rewarded if they utilize renewables. A "green cryptocurrency" will be created.
 * The `dMark` will reuse proven designs and implementations, where possible. And introduce improvements/modifications, where necessary.
