@@ -53,7 +53,7 @@ Energy sustainability will be fostered by rewarding the usage of renewable energ
 * Users will be rewarded if they utilize renewables. A "green cryptocurrency" will be created.
 * The `dMark` will reuse proven designs and implementations, where possible. And introduce improvements/modifications, where necessary.
 
-This site btw. represents the much-loved whitepaper in its current version (1.0, 28.12.2017).
+This site btw. represents the much-loved whitepaper in its current version (1.0a, 30.12.2017).
 
 ## Support
 
